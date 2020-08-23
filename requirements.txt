@@ -1,2 +1,3 @@
-tensorflow==1.12
+tensorflow==1.15
+tensorflow-estimator==2.1.0
 gym[all]
